@@ -1,3 +1,3 @@
 Euler
 =====
-[Project Euler](projecteuler.net)
+[Project Euler](http://projecteuler.net)
